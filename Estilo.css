@@ -1,0 +1,133 @@
+body, footer {
+    background-color:rgb(191, 144, 200);
+}
+
+h3 {
+    font-family: 'Verdana'
+}
+
+h3 {
+    margin-left: 5px;
+    margin-top: 2px;
+    color: beige;
+  
+}
+h1 {
+    font-family: 'Franklin Gothic Medium'; 
+}
+h1 {
+   
+    color: beige;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+.Redes {
+    padding: 20px;
+    width: 200%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.Redes a {
+    text-align: center;
+    width: 290px;
+    padding: 20px;
+}
+
+.Datos li {
+   width: 1000px;
+   margin: 1px;
+   margin-bottom: 10px;
+   margin-top: 10px;
+}
+
+.Datos li a {
+    font-family: 'Verdana', cursive;
+}
+
+p {
+    font-family: 'Verdana', cursive;
+}
+
+button {
+    background-color: rgb(191, 144, 200);  
+    font-family: 'Verdana', cursive; 
+    margin-bottom: 2px;
+    border-radius: 50%;
+    border: none;
+    color: beige;
+}
+
+button:hover {
+  
+    font-family: 'Verdana', cursive;
+    color: black;
+}
+
+@media only screen and (max-width:800px) {
+    nav {
+        margin-left: 0%;
+        display: block;
+        width: 100%;
+    }
+    h1 {
+        width: 100%;
+        margin-left: 0%;
+    }
+}
+
+.caja1 {
+  width: 46%;
+  display: inline-block;
+  padding: 20px;
+  margin: 10px;
+  font-family: 'Verdana', cursive;
+  margin-bottom: 40px;
+}
+
+.caja2 {
+    width: 46%;
+    display: inline-block;
+    padding: 20px;
+    margin: 10px;
+    font-family: 'Verdana', cursive;  
+    margin-bottom: 40px;
+}
+
+.caja1 li {
+    margin-bottom: 1%;
+}
+
+
+.caja2 li {
+    margin-bottom: 1%;
+}
+ #Insta {
+    color: blueviolet;
+ }
+
+ #Twitt { 
+    color: aqua;
+}
+
+#Face {
+    color: royalblue;
+}
+.Datos ul {
+    margin: 0%;
+}
+#Face:hover {
+    color: grey;
+}
+
+#Insta:hover {
+    color: grey;
+}
+
+#Twitt:hover {
+    color: grey;
+}
