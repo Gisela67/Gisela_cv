@@ -1,2 +1,2 @@
-# Gisela67.github.io
+# Gisela_cv
 Proyecto final CV Gisela
